@@ -143,8 +143,14 @@ streamlit run app.py
 
 ---
 
-## 💡 Future Improvements
 
+🎥 Project Demo
+<img width="1907" height="1060" alt="Animation" src="https://github.com/user-attachments/assets/79842b7b-9079-4887-8c74-331964d35a99" />
+
+
+
+
+## 💡 Future Improvements
 * AQI Gauge Visualization.
 * Live AQI API Integration.
 * City-wise AQI Trend Dashboard.
